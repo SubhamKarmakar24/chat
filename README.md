@@ -9,6 +9,3 @@ This had End-to-End Encryption built in.
 - Inside this repository, open a terminal.
 - For installing the dependencies, run `npm install`.
 - To run the project, run `npm run dev`.
-
-<br />
-© @fireship-io
